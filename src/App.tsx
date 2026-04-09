@@ -28,7 +28,7 @@ export default function App() {
           <p className="badge">{environment}</p>
           <p>
             Este valor cambia en cada build y nos ayuda a verificar qué entorno
-            estamos viendo.
+            estamos viendo 2.
           </p>
         </article>
 
